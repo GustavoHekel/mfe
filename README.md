@@ -6,6 +6,9 @@ It uses NextJS and Module Federation under the hood to expose the "ToDo" app, so
 
 ### Instructions
 
+#### Installation
+Please make sure to install all dependencies within each project by running `npm install`
+
 #### Running the app
 * Run the `npm run build` command in the `todo-app` repo
 * Run `npm run start`, it should start the app in `http://localhost:3001`
